@@ -11,8 +11,6 @@ Stayio is a property rental and listing web application built using the MERN sta
 
 👤 User authentication and authorization
 
-❤️ Wishlist / save properties for later
-
 📱 Responsive design
 🛠️ Tech Stack
 
